@@ -1,5 +1,5 @@
 # simplewebpack-demo
-webpack 练习使用简单Demo
+webpack simple Demo
 
 
 
